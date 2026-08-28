@@ -6,9 +6,10 @@ public:
         return s == str;
     }
     int countSubstrings(string s) {
+        int n = s.size();
         int c = 0;
-        for(int i = 0; i < s.size(); i++){
-            for(int j = i; j < s.size(); j++){
+        for(int i = n-1; i >= 0; i--){
+            for(int j = i; j < n; j++){
                 if(palindrome(s.substr(i,j-i+1)))  c++;
             }
         }
