@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/rudraranjan001/leetcode-sol/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudraranjan001/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/rudraranjan001/leetcode-sol/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rudraranjan001/leetcode-sol/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
