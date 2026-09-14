@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0836-rectangle-overlap) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rudraranjan001/leetcode-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3870-count-commas-in-range](https://github.com/rudraranjan001/leetcode-sol/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rudraranjan001/leetcode-sol/tree/master/3875-construct-uniform-parity-array-i) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rudraranjan001/leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
