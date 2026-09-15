@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rudraranjan001/leetcode-sol/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/rudraranjan001/leetcode-sol/tree/master/0051-n-queens) |
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudraranjan001/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rudraranjan001/leetcode-sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rudraranjan001/leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
@@ -162,4 +165,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
