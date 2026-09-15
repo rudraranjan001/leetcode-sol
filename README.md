@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rudraranjan001/leetcode-sol/tree/master/0051-n-queens) |
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudraranjan001/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0835-image-overlap) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rudraranjan001/leetcode-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rudraranjan001/leetcode-sol/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Hash Table
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rudraranjan001/leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rudraranjan001/leetcode-sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -153,8 +156,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
