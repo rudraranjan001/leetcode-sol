@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudraranjan001/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rudraranjan001/leetcode-sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rudraranjan001/leetcode-sol/tree/master/0027-remove-element) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rudraranjan001/leetcode-sol/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rudraranjan001/leetcode-sol/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rudraranjan001/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rudraranjan001/leetcode-sol/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rudraranjan001/leetcode-sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
