@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudraranjan001/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rudraranjan001/leetcode-sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rudraranjan001/leetcode-sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rudraranjan001/leetcode-sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rudraranjan001/leetcode-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3870-count-commas-in-range](https://github.com/rudraranjan001/leetcode-sol/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rudraranjan001/leetcode-sol/tree/master/3875-construct-uniform-parity-array-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rudraranjan001/leetcode-sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rudraranjan001/leetcode-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rudraranjan001/leetcode-sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/rudraranjan001/leetcode-sol/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
