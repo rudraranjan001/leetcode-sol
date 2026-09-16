@@ -1,28 +1,29 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        //brute force
-        unordered_map<int,int> mappp;
+        unordered_map<int,int> mapp;
+        int n = nums.size();
+
         for(int x : nums){
-            mappp[x]++;
+            mapp[x]++;
+        }
+
+        vector<vector<int>> freq(n+1);
+        for(auto x: mapp){
+            freq[x.second].push_back(x.first);
         }
 
         vector<int> result;
-
-        while(k--){
-            int key = 0;
-            int ele = 0;
-            for(auto x : mappp){
-                if(key < x.second){
-                    key = x.second;
-                    ele = x.first;
+        
+            for(int i = n; i >= 0; i--){
+                if(!freq[i].empty()){
+                    if(!k)  return result;
+                    for(int j = 0; j < freq[i].size(); j++){
+                        result.push_back(freq[i][j]);
+                        k--;
+                    }
                 }
             }
-            cout<<ele<<" "<<key<<endl;
-            mappp[ele] = 0;
-            result.push_back(ele);
-        }
-
         return result;
 
     }
