@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudraranjan001/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rudraranjan001/leetcode-sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rudraranjan001/leetcode-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rudraranjan001/leetcode-sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudraranjan001/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rudraranjan001/leetcode-sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rudraranjan001/leetcode-sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rudraranjan001/leetcode-sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rudraranjan001/leetcode-sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rudraranjan001/leetcode-sol/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Longest Increasing Subsequence
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rudraranjan001/leetcode-sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rudraranjan001/leetcode-sol/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rudraranjan001/leetcode-sol/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rudraranjan001/leetcode-sol/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
