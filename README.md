@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/rudraranjan001/leetcode-sol/tree/master/0029-divide-two-integers) |
 | [0836-rectangle-overlap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rudraranjan001/leetcode-sol/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rudraranjan001/leetcode-sol/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rudraranjan001/leetcode-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3870-count-commas-in-range](https://github.com/rudraranjan001/leetcode-sol/tree/master/3870-count-commas-in-range) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rudraranjan001/leetcode-sol/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Trie
 |  |
 | ------- |
