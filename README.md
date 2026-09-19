@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rudraranjan001/leetcode-sol/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/rudraranjan001/leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rudraranjan001/leetcode-sol/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rudraranjan001/leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/rudraranjan001/leetcode-sol/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rudraranjan001/leetcode-sol/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/rudraranjan001/leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/0647-palindromic-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
