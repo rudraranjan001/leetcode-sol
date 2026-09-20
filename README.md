@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rudraranjan001/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rudraranjan001/leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rudraranjan001/leetcode-sol/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/rudraranjan001/leetcode-sol/tree/master/0051-n-queens) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rudraranjan001/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rudraranjan001/leetcode-sol/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rudraranjan001/leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraranjan001/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rudraranjan001/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rudraranjan001/leetcode-sol/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
