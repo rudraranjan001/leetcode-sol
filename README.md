@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/rudraranjan001/leetcode-sol/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rudraranjan001/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rudraranjan001/leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/rudraranjan001/leetcode-sol/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rudraranjan001/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/rudraranjan001/leetcode-sol/tree/master/0125-valid-palindrome) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/rudraranjan001/leetcode-sol/tree/master/0051-n-queens) |
 | [1096-brace-expansion-ii](https://github.com/rudraranjan001/leetcode-sol/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rudraranjan001/leetcode-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rudraranjan001/leetcode-sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
