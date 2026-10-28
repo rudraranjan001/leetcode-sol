@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rudraranjan001/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rudraranjan001/leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rudraranjan001/leetcode-sol/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/rudraranjan001/leetcode-sol/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rudraranjan001/leetcode-sol/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraranjan001/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rudraranjan001/leetcode-sol/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/rudraranjan001/leetcode-sol/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/rudraranjan001/leetcode-sol/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rudraranjan001/leetcode-sol/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/rudraranjan001/leetcode-sol/tree/master/0125-valid-palindrome) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rudraranjan001/leetcode-sol/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/rudraranjan001/leetcode-sol/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rudraranjan001/leetcode-sol/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
