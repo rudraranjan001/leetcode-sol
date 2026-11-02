@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraranjan001/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/rudraranjan001/leetcode-sol/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rudraranjan001/leetcode-sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0705-design-hashset](https://github.com/rudraranjan001/leetcode-sol/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudraranjan001/leetcode-sol/tree/master/0746-min-cost-climbing-stairs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/rudraranjan001/leetcode-sol/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/rudraranjan001/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rudraranjan001/leetcode-sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/rudraranjan001/leetcode-sol/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rudraranjan001/leetcode-sol/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rudraranjan001/leetcode-sol/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rudraranjan001/leetcode-sol/tree/master/0029-divide-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rudraranjan001/leetcode-sol/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/rudraranjan001/leetcode-sol/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rudraranjan001/leetcode-sol/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rudraranjan001/leetcode-sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
